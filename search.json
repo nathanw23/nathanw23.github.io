@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nThe application of nanotechnology for quantification of circulating tumour DNA in liquid biopsies: a systematic review\n\n\n\n\n\n\njournal article\n\n\nsystematic review\n\n\nctDNA\n\n\nnanotechnology\n\n\n\n\n\n\n2022\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/wu2022.html",
+    "href": "publications/wu2022.html",
+    "title": "The application of nanotechnology for quantification of circulating tumour DNA in liquid biopsies: a systematic review",
+    "section": "",
+    "text": "Technologies for quantifying circulating tumour DNA (ctDNA) in liquid biopsies could enable real-time measurements of cancer progression, profoundly impacting patient care. Sequencing methods can be too complex and time-consuming for regular point-of-care monitoring, but nanotechnology offers an alternative, harnessing the unique properties of objects tens to hundreds of nanometres in size. This systematic review was performed to identify all examples of nanotechnology-based ctDNA detection and assess their potential for clinical use. Google Scholar, PubMed, Web of Science, Google Patents, Espacenet and Embase/MEDLINE were searched up to 23rd March 2021. The review identified nanotechnology-based methods for ctDNA detection for which quantitative measures (e.g., limit of detection, LOD) were reported and biologically relevant samples were used. The pre-defined inclusion criteria were met by 66 records. LODs ranged from 10 zM to 50nM. 25 records presented an LOD of 10fM or below. Nanotechnology-based approaches could provide the basis for the next wave of advances in ctDNA diagnostics, enabling analysis at the point-of-care, but none are currently used clinically. Further work is needed in development and validation; trade-offs are expected between different performance measures e.g., number of sequences detected and time to result."
+  },
+  {
+    "objectID": "publications/wu2022.html#abstract",
+    "href": "publications/wu2022.html#abstract",
+    "title": "The application of nanotechnology for quantification of circulating tumour DNA in liquid biopsies: a systematic review",
+    "section": "",
+    "text": "Technologies for quantifying circulating tumour DNA (ctDNA) in liquid biopsies could enable real-time measurements of cancer progression, profoundly impacting patient care. Sequencing methods can be too complex and time-consuming for regular point-of-care monitoring, but nanotechnology offers an alternative, harnessing the unique properties of objects tens to hundreds of nanometres in size. This systematic review was performed to identify all examples of nanotechnology-based ctDNA detection and assess their potential for clinical use. Google Scholar, PubMed, Web of Science, Google Patents, Espacenet and Embase/MEDLINE were searched up to 23rd March 2021. The review identified nanotechnology-based methods for ctDNA detection for which quantitative measures (e.g., limit of detection, LOD) were reported and biologically relevant samples were used. The pre-defined inclusion criteria were met by 66 records. LODs ranged from 10 zM to 50nM. 25 records presented an LOD of 10fM or below. Nanotechnology-based approaches could provide the basis for the next wave of advances in ctDNA diagnostics, enabling analysis at the point-of-care, but none are currently used clinically. Further work is needed in development and validation; trade-offs are expected between different performance measures e.g., number of sequences detected and time to result."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Datawrapper, for creating interactive and responsive charts and maps\nData Viz Project, for data visualisation inspiration"
+  },
+  {
+    "objectID": "resources.html#data-visualisation",
+    "href": "resources.html#data-visualisation",
+    "title": "Resources",
+    "section": "",
+    "text": "Datawrapper, for creating interactive and responsive charts and maps\nData Viz Project, for data visualisation inspiration"
+  },
+  {
+    "objectID": "resources.html#accessibility",
+    "href": "resources.html#accessibility",
+    "title": "Resources",
+    "section": "Accessibility",
+    "text": "Accessibility\n\nCoblis, a colour blind simulator to check figures for accessibility"
+  },
+  {
+    "objectID": "resources.html#latex",
+    "href": "resources.html#latex",
+    "title": "Resources",
+    "section": "LaTeX",
+    "text": "LaTeX\n\nTable Convert, a web app to convert tables from markdown to LaTeX and other formats"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nathan Wu",
+    "section": "",
+    "text": "Biography\nI am a PhD student at the Institute for Bioengineering at the University of Edinburgh. I am based in the Dunn Group and work on DNA nanotechnology-based methods to detect cancer biomarkers such as circulating tumour DNA. In addition to this research, I am interested in synthetic biology for biomedical applications.\n\n\nEducation\nMSc in Biotechnology (2019) | University of Edinburgh\nBSc in Biochemistry (2018) | Liverpool John Moores University"
+  }
+]
