@@ -1,17 +1,31 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Nathan Wu",
+    "objectID": "publications/aqulina2025.html",
+    "href": "publications/aqulina2025.html",
+    "title": "GelGenie: an AI-powered framework for gel electrophoresis image analysis",
     "section": "",
-    "text": "Biography\nI am a post doctoral research assoicate in molecular biology, with an interest in synthetic biology for biomedical applications.\n\n\nEducation\nPhD in Bioengineering (2024) | University of Edinburgh\nMSc in Biotechnology (2019) | University of Edinburgh\nBSc in Biochemistry (2018) | Liverpool John Moores University"
+    "text": "Gel electrophoresis is a ubiquitous laboratory method for the separation and semi-quantitative analysis of biomolecules. However, gel image analysis principles have barely advanced for decades, in stark contrast to other fields where AI has revolutionised data processing. Here, we show that an AI-based system can automatically identify gel bands in seconds for a wide range of experimental conditions, surpassing the capabilities of current software in both ease-of-use and versatility. We use a dataset containing 500+ images of manually-labelled gels to train various U-Nets to accurately identify bands through segmentation, i.e. classifying pixels as ‘band’ or ‘background’. When applied to gel electrophoresis data from other laboratories, our system generates results that quantitatively match those of the original authors. We have publicly released our models through GelGenie, an open-source application that allows users to extract bands from gel images on their own devices, with no expert knowledge or experience required."
+  },
+  {
+    "objectID": "publications/aqulina2025.html#abstract",
+    "href": "publications/aqulina2025.html#abstract",
+    "title": "GelGenie: an AI-powered framework for gel electrophoresis image analysis",
+    "section": "",
+    "text": "Gel electrophoresis is a ubiquitous laboratory method for the separation and semi-quantitative analysis of biomolecules. However, gel image analysis principles have barely advanced for decades, in stark contrast to other fields where AI has revolutionised data processing. Here, we show that an AI-based system can automatically identify gel bands in seconds for a wide range of experimental conditions, surpassing the capabilities of current software in both ease-of-use and versatility. We use a dataset containing 500+ images of manually-labelled gels to train various U-Nets to accurately identify bands through segmentation, i.e. classifying pixels as ‘band’ or ‘background’. When applied to gel electrophoresis data from other laboratories, our system generates results that quantitatively match those of the original authors. We have publicly released our models through GelGenie, an open-source application that allows users to extract bands from gel images on their own devices, with no expert knowledge or experience required."
   },
   {
     "objectID": "papers.html",
     "href": "papers.html",
     "title": "Papers",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nThe application of nanotechnology for quantification of circulating tumour DNA in liquid biopsies: a systematic review\n\n\n\n\n\n\njournal article\n\n\nsystematic review\n\n\nctDNA\n\n\nnanotechnology\n\n\n\n\n\n\n2022\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nThe application of nanotechnology for quantification of circulating tumour DNA in liquid biopsies: a systematic review\n\n\n\njournal article\n\nsystematic review\n\nctDNA\n\nnanotechnology\n\n\n\n\n\n\n2022\n\n\n\n\n\n\n\nGelGenie: an AI-powered framework for gel electrophoresis image analysis\n\n\n\njournal article\n\n\n\n\n\n\n2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nathan Wu",
+    "section": "",
+    "text": "Biography\nI am a post doctoral research assoicate in molecular biology, with an interest in synthetic biology for biomedical applications.\n\n\nEducation\nPhD in Bioengineering (2024) | University of Edinburgh\nMSc in Biotechnology (2019) | University of Edinburgh\nBSc in Biochemistry (2018) | Liverpool John Moores University"
   },
   {
     "objectID": "resources.html",
@@ -39,7 +53,7 @@
     "href": "posts.html",
     "title": "Blog",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/wu2022.html",
