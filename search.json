@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "publications/aqulina2025.html",
-    "href": "publications/aqulina2025.html",
-    "title": "GelGenie: an AI-powered framework for gel electrophoresis image analysis",
-    "section": "",
-    "text": "Gel electrophoresis is a ubiquitous laboratory method for the separation and semi-quantitative analysis of biomolecules. However, gel image analysis principles have barely advanced for decades, in stark contrast to other fields where AI has revolutionised data processing. Here, we show that an AI-based system can automatically identify gel bands in seconds for a wide range of experimental conditions, surpassing the capabilities of current software in both ease-of-use and versatility. We use a dataset containing 500+ images of manually-labelled gels to train various U-Nets to accurately identify bands through segmentation, i.e. classifying pixels as ‘band’ or ‘background’. When applied to gel electrophoresis data from other laboratories, our system generates results that quantitatively match those of the original authors. We have publicly released our models through GelGenie, an open-source application that allows users to extract bands from gel images on their own devices, with no expert knowledge or experience required."
-  },
-  {
-    "objectID": "publications/aqulina2025.html#abstract",
-    "href": "publications/aqulina2025.html#abstract",
-    "title": "GelGenie: an AI-powered framework for gel electrophoresis image analysis",
-    "section": "",
-    "text": "Gel electrophoresis is a ubiquitous laboratory method for the separation and semi-quantitative analysis of biomolecules. However, gel image analysis principles have barely advanced for decades, in stark contrast to other fields where AI has revolutionised data processing. Here, we show that an AI-based system can automatically identify gel bands in seconds for a wide range of experimental conditions, surpassing the capabilities of current software in both ease-of-use and versatility. We use a dataset containing 500+ images of manually-labelled gels to train various U-Nets to accurately identify bands through segmentation, i.e. classifying pixels as ‘band’ or ‘background’. When applied to gel electrophoresis data from other laboratories, our system generates results that quantitatively match those of the original authors. We have publicly released our models through GelGenie, an open-source application that allows users to extract bands from gel images on their own devices, with no expert knowledge or experience required."
-  },
-  {
-    "objectID": "papers.html",
-    "href": "papers.html",
-    "title": "Papers",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nThe application of nanotechnology for quantification of circulating tumour DNA in liquid biopsies: a systematic review\n\n\n\njournal article\n\nsystematic review\n\nctDNA\n\nnanotechnology\n\n\n\n\n\n\n2022\n\n\n\n\n\n\n\nGelGenie: an AI-powered framework for gel electrophoresis image analysis\n\n\n\njournal article\n\n\n\n\n\n\n2025\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Nathan Wu",
-    "section": "",
-    "text": "Biography\nI am a post doctoral research assoicate in molecular biology, with an interest in synthetic biology for biomedical applications.\n\n\nEducation\nPhD in Bioengineering (2024) | University of Edinburgh\nMSc in Biotechnology (2019) | University of Edinburgh\nBSc in Biochemistry (2018) | Liverpool John Moores University"
-  },
-  {
     "objectID": "resources.html",
     "href": "resources.html",
     "title": "Resources",
@@ -49,13 +21,6 @@
     "text": "Accessibility\n\nCoblis, a colour-blind simulator to check figures for accessibility"
   },
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "publications/wu2022.html",
     "href": "publications/wu2022.html",
     "title": "The application of nanotechnology for quantification of circulating tumour DNA in liquid biopsies: a systematic review",
@@ -68,5 +33,40 @@
     "title": "The application of nanotechnology for quantification of circulating tumour DNA in liquid biopsies: a systematic review",
     "section": "",
     "text": "Technologies for quantifying circulating tumour DNA (ctDNA) in liquid biopsies could enable real-time measurements of cancer progression, profoundly impacting patient care. Sequencing methods can be too complex and time-consuming for regular point-of-care monitoring, but nanotechnology offers an alternative, harnessing the unique properties of objects tens to hundreds of nanometres in size. This systematic review was performed to identify all examples of nanotechnology-based ctDNA detection and assess their potential for clinical use. Google Scholar, PubMed, Web of Science, Google Patents, Espacenet and Embase/MEDLINE were searched up to 23rd March 2021. The review identified nanotechnology-based methods for ctDNA detection for which quantitative measures (e.g., limit of detection, LOD) were reported and biologically relevant samples were used. The pre-defined inclusion criteria were met by 66 records. LODs ranged from 10 zM to 50nM. 25 records presented an LOD of 10fM or below. Nanotechnology-based approaches could provide the basis for the next wave of advances in ctDNA diagnostics, enabling analysis at the point-of-care, but none are currently used clinically. Further work is needed in development and validation; trade-offs are expected between different performance measures e.g., number of sequences detected and time to result."
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\nThe application of nanotechnology for quantification of circulating tumour DNA in liquid biopsies: a systematic review\n\n\n\njournal article\n\nsystematic review\n\nctDNA\n\nnanotechnology\n\n\n\n\n\n\n2022\n\n\n\n\n\n\n\nGelGenie: an AI-powered framework for gel electrophoresis image analysis\n\n\n\njournal article\n\n\n\n\n\n\n2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nathan Wu",
+    "section": "",
+    "text": "Biography\nI am a post doctoral research assoicate in molecular biology, with an interest in synthetic biology for biomedical applications.\n\n\nEducation\nPhD in Bioengineering (2024) | University of Edinburgh\nMSc in Biotechnology (2019) | University of Edinburgh\nBSc in Biochemistry (2018) | Liverpool John Moores University"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/aqulina2025.html",
+    "href": "publications/aqulina2025.html",
+    "title": "GelGenie: an AI-powered framework for gel electrophoresis image analysis",
+    "section": "",
+    "text": "Gel electrophoresis is a ubiquitous laboratory method for the separation and semi-quantitative analysis of biomolecules. However, gel image analysis principles have barely advanced for decades, in stark contrast to other fields where AI has revolutionised data processing. Here, we show that an AI-based system can automatically identify gel bands in seconds for a wide range of experimental conditions, surpassing the capabilities of current software in both ease-of-use and versatility. We use a dataset containing 500+ images of manually-labelled gels to train various U-Nets to accurately identify bands through segmentation, i.e. classifying pixels as ‘band’ or ‘background’. When applied to gel electrophoresis data from other laboratories, our system generates results that quantitatively match those of the original authors. We have publicly released our models through GelGenie, an open-source application that allows users to extract bands from gel images on their own devices, with no expert knowledge or experience required."
+  },
+  {
+    "objectID": "publications/aqulina2025.html#abstract",
+    "href": "publications/aqulina2025.html#abstract",
+    "title": "GelGenie: an AI-powered framework for gel electrophoresis image analysis",
+    "section": "",
+    "text": "Gel electrophoresis is a ubiquitous laboratory method for the separation and semi-quantitative analysis of biomolecules. However, gel image analysis principles have barely advanced for decades, in stark contrast to other fields where AI has revolutionised data processing. Here, we show that an AI-based system can automatically identify gel bands in seconds for a wide range of experimental conditions, surpassing the capabilities of current software in both ease-of-use and versatility. We use a dataset containing 500+ images of manually-labelled gels to train various U-Nets to accurately identify bands through segmentation, i.e. classifying pixels as ‘band’ or ‘background’. When applied to gel electrophoresis data from other laboratories, our system generates results that quantitatively match those of the original authors. We have publicly released our models through GelGenie, an open-source application that allows users to extract bands from gel images on their own devices, with no expert knowledge or experience required."
   }
 ]
