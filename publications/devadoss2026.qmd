@@ -1,0 +1,21 @@
+---
+title: "Emerging liquid biopsy tools to analyse cancer biomakers: electrochemical sensors and extracellular vesicle analysis"
+type: "article"
+author: "Anitha Devadoss, Michael Furness, Nathan Wu, Olga Oikonomidou, Maiwenn Kersaudy-Kerhoas, Nick Leslie"
+year: "2026"
+publication: "Biochemical Society Transactions"
+preprint: ""
+doi: "https://doi.org/10.1042/BST20253109"
+materials: ""
+toc: false
+categories:
+  - cancer biomarkers
+  - electrochemical biosensors
+  - extracellular vesicles
+  - point of care diagnosis
+  - proteins
+---
+
+## Abstract
+
+Better biomarker analysis technologies can provide improvements in the detection, characterisation and monitoring of cancer and less invasive sampling of blood and other body fluids can improve acceptability and affordability. Here, we discuss these technologies with a specific focus on recent advances in electrochemical sensors, specifically for the analysis of extracellular vesicles (EVs). Widely used biomarker tests with relatively high sensitivity (e.g. ELISAs) are limited by their cost, storage requirements and shelf-life, and ease of use away from centralised facilities. Moreover, their limits of detection (most commonly in the nanomolar to picomolar, with new technologies pushing into the femtomolar range) remain challenged by low abundance biomarkers. Here, we discuss how electrochemical sensor platforms, although often requiring more effort to adapt for new analytes, can provide high sensitivity and direct quantitation at low cost. These platforms are also often simpler to use away from testing facilities. Additionally, we explore how EVs, by protecting nucleic acid and protein cargos from degradation, may facilitate the collective enrichment from blood samples of multiple tumour-derived biomarkers. Continued progress in analysis technologies, alongside a deeper understanding of biomarker biology and clinical value, holds the potential to improve outcomes for the increasing numbers of individuals diagnosed with cancer.
