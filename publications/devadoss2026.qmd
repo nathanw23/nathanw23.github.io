@@ -3,6 +3,7 @@ title: "Emerging liquid biopsy tools to analyse cancer biomakers: electrochemica
 type: "article"
 author: "Anitha Devadoss, Michael Furness, Nathan Wu, Olga Oikonomidou, Maiwenn Kersaudy-Kerhoas, Nick Leslie"
 year: "02/18/2026"
+date: "02/18/2026"
 publication: "Biochemical Society Transactions"
 preprint: ""
 doi: "https://doi.org/10.1042/BST20253109"

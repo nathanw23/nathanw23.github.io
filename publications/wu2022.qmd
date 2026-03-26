@@ -3,6 +3,7 @@ title: "The application of nanotechnology for quantification of circulating tumo
 type: "article"
 author: "Nathan Wu, Matthew Aquilina, Bin-Zhi Qian, Remco Loos, Ines Gonzalez-Garcia, Cristina Costa Santini, Katherine Dunn"
 year: "03/18/2022"
+date: "03/18/2022"
 publication: "IEEE Reviews in Biomedical Engineering"
 preprint: ""
 doi: "https://doi.org/10.1109/RBME.2022.3159389"
