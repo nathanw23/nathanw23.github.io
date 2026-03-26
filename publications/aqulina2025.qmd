@@ -2,7 +2,7 @@
 title: "GelGenie: an AI-powered framework for gel electrophoresis image analysis"
 type: "article"
 author: "Matthew Aquilina, Nathan Wu, Kiros Kwan, Filip Busic, James Dodd, Laura Nicolas-Sanez, Alan O'Callaghan, Peter Bankhead, Katherine Dunn"
-year: "2025"
+date: "05/05/2025"
 publication: "Nature Communications"
 preprint: ""
 doi: "https://doi.org/10.1038/s41467-025-59189-0"
