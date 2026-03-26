@@ -1,14 +1,14 @@
 [
   {
-    "listing": "/posts.html",
-    "items": []
-  },
-  {
     "listing": "/papers.html",
     "items": [
-      "/publications/devadoss2026.html",
+      "/publications/wu2022.html",
       "/publications/aqulina2025.html",
-      "/publications/wu2022.html"
+      "/publications/devadoss2026.html"
     ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": []
   }
 ]
