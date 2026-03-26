@@ -3,9 +3,9 @@ title: "Papers"
 listing: 
   contents: publications
   type: default
-  sort: "date desc"
+  sort: "date"
   categories: true
   sort-ui: true
   filter-ui: true
-  fields: [year, title, categories]
+  fields: [date, title, categories]
 ---
