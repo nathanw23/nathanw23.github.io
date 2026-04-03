@@ -7,6 +7,6 @@ listing:
   categories: true
   sort-ui: true
   filter-ui: true
-  fields: [year, title, categories]
+  fields: [date, title, categories]
   feed: true
 ---
